@@ -1,0 +1,14 @@
+BasicBlock,Use,Def,In_final_iteration,Out_final_iteration,Number_of_Unique_Registers
+1,cd,0,cde,de,4
+2,0,k,de,dke
+3,k,0,dke,ecdk
+4,ck,e,ck,eck
+5,ck,d,eck,edk
+6,k,k,edk,edk
+7,ed,f,ed,f
+8,0,g,ed,edg
+9,g,0,edg,ecdg
+10,cd,e,edg,edg
+11,g,c,edg,edg
+12,g,g,edg,edg
+13,f,0,f,0
